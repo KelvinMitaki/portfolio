@@ -15,8 +15,6 @@ html {
   color: #eee;
   background-color: #221e3f;
   overflow-x: hidden;
-  position: relative;
-  z-index: 10;
 }
 
 body {
@@ -32,8 +30,6 @@ body {
   background-size: cover;
   height: 100%;
   width: 100%;
-  position: relative;
-  z-index: 100;
 }
 
 a {
@@ -694,7 +690,7 @@ input[type="submit"]:hover {
   body {
     background-image: url(./images/sitebg.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left;
     background-attachment: fixed;
     background-size: cover;
   }
