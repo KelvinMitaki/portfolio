@@ -48,7 +48,7 @@ img {
 
 section {
   padding: 6rem 0;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 /*End global*/
