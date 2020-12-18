@@ -454,7 +454,6 @@ li {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
   grid-template-rows: repeat(auto-fit, minmax(38rem, 1fr));
-  grid-auto-rows: 30rem;
   gap: 2rem;
   margin-top: 2rem;
   padding: 2rem;
