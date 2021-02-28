@@ -80,7 +80,10 @@ section {
   margin: 0 auto;
   position: relative;
 }
-
+.resume {
+  display: flex;
+  justify-content: center;
+}
 .section-heading {
   text-align: center;
   margin-bottom: 10rem;
